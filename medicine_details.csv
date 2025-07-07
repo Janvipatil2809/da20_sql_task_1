@@ -1,0 +1,11 @@
+medicine_name,Qty,dosage,caution,direction,price
+Paracetamol,20,500mg,Avoid alcohol,Take after food,50
+Ibuprofen,15,400mg,Not for ulcers,Take with water,80
+Amoxicillin,10,250mg,Allergy warning,Complete full course,120
+Cetirizine,30,10mg,May cause drowsiness,Take at night,60
+Metformin,25,500mg,Monitor blood sugar,Take with meals,100
+Aspirin,18,300mg,Not for children,Take with food,70
+Loratadine,22,10mg,May cause dry mouth,Take once daily,65
+Azithromycin,12,500mg,Allergy warning,Take on empty stomach,150
+Omeprazole,16,20mg,Not for long-term use,Take before meals,90
+Diclofenac,14,50mg,May cause stomach upset,Take after food,85
